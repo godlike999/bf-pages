@@ -1,6 +1,6 @@
 {
   "name": "bf-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "static web app workflow",
   "main": "lib/index.js",
   "bin": "bin/bf-pages.js",
