@@ -3,12 +3,21 @@
   "version": "1.0.0",
   "description": "static web app workflow",
   "main": "lib/index.js",
+  "bin": "bin/bf-pages.js",
   "author": "baofei",
+  "files": [
+    "lib",
+    "bin"
+  ],
   "license": "MIT",
   "keywords": [
     "bf-pages",
     "bf"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godlike999/bf-pages.git"
+  },
   "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
